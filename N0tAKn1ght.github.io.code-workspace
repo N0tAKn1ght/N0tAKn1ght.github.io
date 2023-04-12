@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Downloads/html5up-dimension"
+		},
+		{
+			"path": "../Downloads/html5up-hyperspace"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "N0tAKn1ght.github.io"
+	}
+}
